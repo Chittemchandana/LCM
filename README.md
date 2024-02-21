@@ -22,7 +22,7 @@ num2 = 24
 
 print("The L.C.M. is", compute_lcm(num1, num2))
 
-#LCM using GCD
+# LCM using GCD
 # Python program to find the L.C.M. of two input number
 
 # This function computes GCD 
